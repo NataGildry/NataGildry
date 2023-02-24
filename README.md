@@ -11,7 +11,7 @@
 
 <br />
 
-I'm <b>Nataliia Podpritova</b>, a <b>Front-end Developer & Ecologist </b> ✨ from Ukraine.
+I'm <b>Nataliia Podpriatova</b>, a <b>Front-end Developer & Ecologist </b> ✨ from Ukraine.
 
 
 **⚡ Skills:**  
