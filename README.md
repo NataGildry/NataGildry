@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm <b>Nataliia Podpriatova</b>, a <b>Front-end Developer & Ecologist </b> ✨ from Ukraine.
+I'm <b>Nataliia Podpriatova</b>, a <b>Software Developer & Ecologist </b> ✨ from Ukraine.
 <br />
 
 <a href="https://www.linkedin.com/in/nataliia-p-a46b0418b/">
