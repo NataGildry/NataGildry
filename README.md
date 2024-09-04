@@ -12,7 +12,7 @@ I'm <b>Nataliia Podpriatova</b>, a <b>Software Engineer & Environmental Engineer
 <br />
 <br />
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">⚡ Languages & Frameworks & Tools & Abilities ⚡</h2>
 <br>
 <p align="center">
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a> 
