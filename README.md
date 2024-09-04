@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm <b>Nataliia Podpriatova</b>, a <b>Software Engineer & Environmental Engineer </b> ✨ from Ukraine.
+I'm <b>Nataliia Podpriatova</b>, a Software Engineer 💻 & Environmental Engineer 🌍✨ from Ukraine. Yes, you got that right—coding by day, saving the environment by night! 🌱💡
 <br />
 
 <a href="https://www.linkedin.com/in/nataliia-p-a46b0418b/">
